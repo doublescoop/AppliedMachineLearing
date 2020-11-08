@@ -1,7 +1,22 @@
-# AppliedMachineLearing_CS5785
+# Applied Machine Learing CS5785
 Machine Learning practices from Cornell CS5785 
 
->📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials
+### ML and statistic techniques used in these projects include... 
+**NLP** :
+- Binary Classification and prediction using Bag of Words / Ngrams
+- implementing Bag of Words, vectorize vocabulaires from scratch 
+- Implement Logistics Regression, Linear SVM, non-linear SVM 
+- dataset: 
+
+
+**CNN** : 
+- Implement 2D convolutional Neural Network, using keras library 
+- Experiment with the number of convolutional layers, Pooling, Dropout,and learning rate.
+- dataset:
+
+**Random Forest**: 
+
+
 
 ## Requirements
 
