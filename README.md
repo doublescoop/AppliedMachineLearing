@@ -3,8 +3,8 @@ Machine Learning practices from Cornell CS5785
 
 ### ML and statistic techniques used in these projects include... 
 **NLP** :
-- Binary Classification and prediction using Bag of Words / Ngrams
-- implementing Bag of Words, vectorize vocabulaires from scratch 
+- Binary Classification and Prediction using Bag of Words / Ngrams
+- Implement Bag of Words, vectorize vocabulaires from scratch 
 - Implement Logistics Regression, Linear SVM, non-linear SVM 
 - dataset: 
 
