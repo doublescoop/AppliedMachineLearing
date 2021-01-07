@@ -6,60 +6,22 @@ Machine Learning practices from Cornell CS5785
 - Binary Classification and Prediction using Bag of Words / Ngrams
 - Implement Bag of Words, vectorize vocabulaires from scratch 
 - Implement Logistics Regression, Linear SVM, non-linear SVM 
-- dataset: 
+- dataset: https://www.kaggle.com/c/nlp-getting-started
 
 
-**CNN** : 
+**CNN/GNN** : 
 - Implement 2D convolutional Neural Network, using keras library 
 - Experiment with the number of convolutional layers, Pooling, Dropout,and learning rate.
-- dataset:
-
-**Random Forest**: 
-
+- Implement GNN to regenerate Mona Lisa pic
+- dataset: Mona Lisa pic / Old Faithful geyser data https://www.stat.cmu.edu/~larry/all-of-statistics/=data/faithful.dat
 
 
-## Requirements
-
-To install requirements:
-
-```setup
-pip install keras
-```
-
-for the minst digits dataset used in the code: 
-```
-from keras.datasets import mnist
-```
-
-## Training
+**Recommendation System / Collaborative Filtering**:
+- Content-based recommendation on written description of wine reviews (bigram Bag of Words from highly scored wines, clustered with Gaussian mixture model) 
+- User-User collaborative filtering based on the review history (highly scored wine orgins)
+- dataset: https://www.kaggle.com/zynicide/wine-reviews
 
 
->📋  Describe how to train the models, with example commands on how to train the models in your paper, including the full training procedure and appropriate hyperparameters.
-
-## Evaluation
-
->📋  Describe how to evaluate the trained models on benchmarks reported in the paper, give commands that produce the results (section below)
-
-
-## Pre-trained Models
-
-You can download pretrained models here:
-
-- [My awesome model](https://drive.google.com/mymodel.pth) trained on ImageNet using parameters x,y,z. 
-
->📋  Give a link to where/how the pretrained models can be downloaded and how they were trained (if applicable).  Alternatively you can have an additional column in your results table with a link to the models.
-
-## Results
-
-Our model achieves the following performance on :
-
-### [Image Classification on ImageNet](https://paperswithcode.com/sota/image-classification-on-imagenet)
-
-| Model name         | Top 1 Accuracy  | Top 5 Accuracy |
-| ------------------ |---------------- | -------------- |
-| My awesome model   |     85%         |      95%       |
-
->📋  Include a table of results from your paper, and link back to the leaderboard for clarity and context. If your main result is a figure, include that figure and link to the command or notebook to reproduce it. 
 
 
 ## Please send your Feedbacks to
